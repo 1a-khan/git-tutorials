@@ -6,3 +6,4 @@ Ich möchte folgende Befehle testen.
 - git pull
 - git remote add origin ...
 - Änderung direkt in main (Konflikt-Test)
+- ein neuer Punkt aus feature-branch

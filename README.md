@@ -7,3 +7,4 @@ Ich möchte folgende Befehle testen.
 - git remote add origin ...
 - Änderung direkt in main (Konflikt-Test)
 - ein neuer Punkt aus feature-branch
+- zweiter Punkt aus feature-branch

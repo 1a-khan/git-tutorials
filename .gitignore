@@ -1,0 +1,21 @@
+# Dependencies (z.B. npm)
+node_modules/
+
+# Environment / Secrets
+.env
+.env.*
+
+# Logs & temporäre Dateien
+*.log
+*.tmp
+*~
+
+# Build-/Test-Artefakte (je nach Projekt)
+dist/
+build/
+coverage/
+
+# Editor/OS
+.DS_Store
+.idea/
+.vscode/
